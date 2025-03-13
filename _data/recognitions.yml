@@ -1,10 +1,30 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: CCNA, Switching, Routing, and Wireless Essentials
+  organization: Cisco Networking Academy
+  year: 2024
+  url: "_certificate_323030001-upjr-edu-mx_ec792e52-6ffd-4f0a-8f36-c3265c458f6d.pdf"
+  summary: Developed skills in configuring, troubleshooting, and securing networks with routers, switches, and wireless devices. Gained hands-on experience in VLANs, inter-VLAN routing, dynamic routing protocols, and network security best practices.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: CCNAv7, Introduction to Networks
+  organization: Cisco Networking Academy
+  year: 2024
+  url: "CCNA-_Introduction_to_Networks_certificate_323030001-upjr-edu-mx_55509ef8-baa2-4392-8e28-b2857c1d2043.pdf"
+  summary: Acquired foundational knowledge of networking concepts, including network architecture, IP addressing, and basic router and switch configurations. Learned to set up and troubleshoot small-scale networks.
+
+- award: Networking Essentials
+  organization: Cisco Networking Academy
+  year: 2023
+  url: "Networking_Essentials_certificate_323030001-upjr-edu-mx_209fb83c-5f0b-486a-8445-37d27ad2646d.pdf"
+  summary: Gained a solid understanding of fundamental networking concepts, including network topologies, protocols, and essential troubleshooting techniques for wired and wireless networks.
+
+- award: Partner, NDG Linux Unhatched
+  organization: Cisco Networking Academy
+  year: 2023
+  url: "Partner-_NDG_Linux_Unhatched_certificate_323030001-upjr-edu-mx_13eef47d-125d-468e-b55a-405fa9d2fc8a.pdf"
+  summary: Introduced to Linux operating system basics, including command-line navigation, file management, and fundamental system administration tasks, providing a foundation for further Linux studies.
+
+- award: Introduction to Internet of Things
+  organization: Cisco Networking Academy
+  year: 2023
+  url: "Introduction_to_IoT_certificate_323030001-upjr-edu-mx_485cc2ea-4a9b-419c-b7ce-17554a2519e9.pdf"
+  summary: Explored IoT concepts, including smart devices, connectivity, and data-driven automation. Learned about IoT applications, security concerns, and the role of networking in IoT ecosystems.
