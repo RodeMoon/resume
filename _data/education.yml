@@ -1,13 +1,20 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Network and Telecommunications Engineering
+  uni: Universidad Politécnica de Juventino Rosas
+  year: 2023 &mdash; Present
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Scholarship for academic excellence
+  summary: I'm developing skills related to IT, networking, and electronics
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
+- degree: Computer Systems Engineering
+  uni: Instituto Tecnológico de Celaya
+  year: 2020 &mdash; 2023
+  awards:
+    - award: Scholarship "Horizonte de oportunidades"
+  summary: I developed important skills such as back-end development
+
+- degree: Programming technician
+  uni: Centro de Estudios Tecnológicos Industrial y de Servicios no. 115 México - Japón
+  year: 2017 &mdash; 2020
   award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  summary: I successfully developed in topics such as web programming

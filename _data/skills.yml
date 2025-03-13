@@ -1,12 +1,27 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Database management
+  description: Working with SQL and NoSQL databases for data storage and retrieval.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Basic cloud deployment
+  description: Deploying projects on cloud platforms like Firebase or AWS.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Programming & scripting
+  description: Developing scripts and applications to automate tasks and improve efficiency.
+
+- skill: Cisco network configuration
+  description: Setting up VLANs, basic routing, and configuring network devices.
+
+- skill: IoT & embedded systems
+  description: Working with ESP32 and microcontrollers for basic automation.
+
+- skill: System integration
+  description: Integrating hardware and software components to create a cohesive system.
+
+- skill: Technical documentation
+  description: Writing clear and structured documentation for networking and software projects.
+
+- skill: Collaboration & teamwork
+  description: Working effectively with others in technical and cross-functional teams.
