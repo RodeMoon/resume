@@ -17,10 +17,10 @@ resume_title: "Student | Programmer"
 resume_contact_email: "323030001@upjr.edu.mx"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "+(412) 134-26-95"
-resume_contact_address: "217 David Guerrero, Valle Dorado, Juventino Rosas, GTO"
+resume_contact_telephone: "+(412)"
+resume_contact_address: "GTO"
 
-resume_header_contact_info: "217 David Guerrero, Juventino Rosas • +(412) 134-26-95 • 323030001@upjr.edu.mx"
+resume_header_contact_info: "GTO • +(412) • 323030001@upjr.edu.mx"
 display_header_contact_info: "true"
 
 resume_header_intro: "<p>I'm currently a student but I have so many habilities related to programming, networking and electronics.</p>"
