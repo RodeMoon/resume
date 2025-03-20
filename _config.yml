@@ -1,5 +1,5 @@
 # Site settings
-title: "Merari J. Olivares Miranda | Resume"
+title: "Merari J. O. | Resume"
 description: "My own presentation."
 
 # Build settings
@@ -10,17 +10,17 @@ sass:
 
 # Resume settings
 resume_avatar: "true"
-resume_name: "Merari J. Olivares Miranda"
+resume_name: "Merari J. O."
 resume_title: "Student | Programmer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "323030001@upjr.edu.mx"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "+(412)"
+resume_contact_telephone: "+(442)"
 resume_contact_address: "GTO"
 
-resume_header_contact_info: "GTO • +(412) • 323030001@upjr.edu.mx"
+resume_header_contact_info: "GTO • +(442) • 323030001@upjr.edu.mx"
 display_header_contact_info: "true"
 
 resume_header_intro: "<p>I'm currently a student but I have so many habilities related to programming, networking and electronics.</p>"
