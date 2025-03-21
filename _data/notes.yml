@@ -1,5 +1,4 @@
 #Notes
-note:
-  - title: "Course notes \"Sistemas telemáticos\""
-    url: "https://github.com/RodeMoon/course_notes"
-    description: "En el enlace se ecnontrarán todos los temas vistos durante el curso además de ejemplos y pasos seguidos para cada tema."
+note: "Course notes \"Sistemas telemáticos\""
+url: "https://github.com/RodeMoon/course_notes"
+description: "En el enlace se encontrarán todos los temas vistos durante el curso además de ejemplos y pasos seguidos para cada tema."

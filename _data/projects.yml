@@ -1,6 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: "Course notes \"Sistemas telemáticos\""
+  role: Creator
+  duration: Present
+  url: "https://github.com/RodeMoon/course_notes"
+  description: "En el enlace se encontrarán todos los temas vistos durante el curso además de ejemplos y pasos seguidos para cada tema."
+
 - project: Digitalización de reportes de incidentes para bomberos
   role: Founder & Primary Developer
   duration: 2023 &mdash; Present
