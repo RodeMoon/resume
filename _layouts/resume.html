@@ -48,6 +48,30 @@
 
     </header>
 
+    {{% if site.resume_section_notes %}
+    <!-- begin Notes -->
+    <section class="content-section">
+      <header class="section-header">
+        <h2>Notes</h2>
+      </header>
+    
+      {% for note in site.data.notes %}
+      <div class="resume-item">
+        <h3 class="resume-item-title">
+          {% if note.url %}
+            <a href="{{ note.url }}">{{ note.title }}</a>
+          {% else %}
+            {{ note.title }}
+          {% endif %}
+        </h3>
+        <p class="resume-item-description">{{ note.description }}</p>
+      </div>
+      {% endfor %}
+    
+    </section>
+    <!-- end Notes -->
+    {% endif %}    
+
     {% if site.resume_section_experience %}
     <!-- begin Experience -->
     <section class="content-section">

@@ -21,7 +21,7 @@ resume_contact_telephone: "+(442)"
 resume_contact_address: "GTO"
 
 resume_header_contact_info: "GTO • +(442) • 323030001@upjr.edu.mx"
-display_header_contact_info: "true"
+display_header_contact_info: "false"
 
 resume_header_intro: "<p>I'm currently a student but I have so many habilities related to programming, networking and electronics.</p>"
 
