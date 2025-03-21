@@ -47,8 +47,8 @@
       {% endif %}
 
     </header>
-
-    {{% if site.resume_section_notes %}
+    
+    {% if site.resume_section_notes %}
     <!-- begin Notes -->
     <section class="content-section">
       <header class="section-header">
@@ -70,7 +70,8 @@
     
     </section>
     <!-- end Notes -->
-    {% endif %}    
+    {% endif %}
+    
 
     {% if site.resume_section_experience %}
     <!-- begin Experience -->
