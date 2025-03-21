@@ -5,7 +5,7 @@
   role: Creator
   duration: Present
   url: "https://github.com/RodeMoon/course_notes"
-  description: "En el enlace se encontrarán todos los temas vistos durante el curso además de ejemplos y pasos seguidos para cada tema."
+  description: "This is a compilation of the topics covered in the field of \"Sistemas telemáticos\"."
 
 - project: Digitalización de reportes de incidentes para bomberos
   role: Founder & Primary Developer
