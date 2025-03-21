@@ -14,9 +14,6 @@
 - skill: Cisco network configuration
   description: Setting up VLANs, basic routing, and configuring network devices.
 
-- skill: IoT & embedded systems
-  description: Working with ESP32 and microcontrollers for basic automation.
-
 - skill: System integration
   description: Integrating hardware and software components to create a cohesive system.
 
